@@ -52,7 +52,7 @@ class ApiClient {
           Uri.parse(url),
           headers: {
             'X-RapidAPI-Key':
-            'b0e61ba03cmsh0bf240a848fa6f2p1ce4d5jsn1a7a6d54c0f4',
+            'e614b62cc3msh8fa30e13d5d26d7p121f6fjsn0aaed8d0eec7',
             'X-RapidAPI-Host':  'hapi-books.p.rapidapi.com',
             'Accept': 'application/json',
             'Content-Type': 'application/json'
